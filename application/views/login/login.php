@@ -55,11 +55,6 @@
                 <div class="form-actions">
                     <button type="submit" class="btn green uppercase" style="margin-left:250px;">Login</button>
                 </div>
-                <div class="create-account">
-                    <p>
-                        <a href="javascript:;" id="register-btn" class="uppercase">Create an account</a>
-                    </p>
-                </div>
             </form>
             <!-- END LOGIN FORM -->
         </div>
